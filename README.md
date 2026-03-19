@@ -27,5 +27,21 @@ print("Eigen Vectors:",eigenvectors)
 
 
 ## Output:
+
+
+
+
+
+
+
+
+<img width="1606" height="539" alt="image" src="https://github.com/user-attachments/assets/70d4b625-6159-4ac5-afbf-704879756208" />
+
+
+
+
+
+
+
 ## Result:
 Thus the Eigenvalue and Eigenvector is successfully solved using python program
