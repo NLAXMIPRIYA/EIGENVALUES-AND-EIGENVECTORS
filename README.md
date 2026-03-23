@@ -35,7 +35,8 @@ print("Eigen Vectors:",eigenvectors)
 
 
 
-<img width="1606" height="539" alt="image" src="https://github.com/user-attachments/assets/70d4b625-6159-4ac5-afbf-704879756208" />
+<img width="1873" height="828" alt="image" src="https://github.com/user-attachments/assets/2573449c-5995-429a-b457-f863bf43f10a" />
+
 
 
 
